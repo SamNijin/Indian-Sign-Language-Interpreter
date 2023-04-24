@@ -40,12 +40,9 @@ As the world continues to recognize the importance of sign language, it is essen
 - sklearn
 - matplotlib
 - seaborn
-- PIL
 - pandas
 - numpy
 - cv2
-- random
-- os
 
 ## Follow the command to install the above libraries
 
