@@ -61,10 +61,6 @@ As the world continues to recognize the importance of sign language, it is essen
 
 - pip install scikit-learn
 
-#### PIL
-
-- pip install Pillow
-
 #### pandas
 
 - pip install pandas
@@ -77,15 +73,6 @@ As the world continues to recognize the importance of sign language, it is essen
 #### cv2
 
 - pip install opencv-python
-
-#### random
-
-- This will come along with the python if not follow the steps
-- pip install random2
-
-#### os
-
-- pip install os
 
 <img src='https://raw.githubusercontent.com/SamNijin/Indian-Sign-Language-Interpreter/master/Accuracy%20vs%20Loss%20Plot.png'/>
 
